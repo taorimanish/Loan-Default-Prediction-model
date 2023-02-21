@@ -1,5 +1,4 @@
-# 
-Loan-Default-Prediction-model by Manish Taori
+# Loan-Default-Prediction-model by Manish Taori
 We are developing a machine learning model that can predict the likelihood of a person defaulting on their loan within the next two years. The goal of this project is to provide assistance to lenders in making informed decisions regarding loan approvals based on the model's output.
 
 ## Project Intro/Objective
