@@ -1,10 +1,10 @@
-# Credit Risk Modelling - Aprian Immanuel
-We are building ML model which can help us in order to get an idea, whether a person will be doing any default activity for his loan in next 2 years
-#### -- Project Status: [Active]
+# 
+Loan-Default-Prediction-model by Manish Taori
+We are developing a machine learning model that can predict the likelihood of a person defaulting on their loan within the next two years. The goal of this project is to provide assistance to lenders in making informed decisions regarding loan approvals based on the model's output.
 
 ## Project Intro/Objective
-The purpose of this project is helping the troubled lenders with this problem by creating a model that can help them make their decision. 
-  
+The main objective of this project is to provide assistance to lenders who are struggling with loan defaults by developing a predictive model that can aid them in making better-informed decisions.
+
 ### Methods Used
 * Dataset Preprocessing (SQL)
 * Simple Exploratory Data Analysis
@@ -22,11 +22,10 @@ The purpose of this project is helping the troubled lenders with this problem by
 * Jupyter notebook
 
 ## Project Description
-For most financial institutions, such as banks and multi-finance companies, their main source of income is coming from their lending activities. By engaging in this activity, it means that lenders are exposed to the potential risk, where debtors stop repaying their loans, causing losses to the lenders. To mitigate this loss, lenders are expected to appropriately choose who are qualified for a loan, at what rate, and at what amount.
-In this project, we are tasked to help the troubled lenders with this problem by creating a model that can help them make their decision. 
+Financial institutions such as banks and multi-finance companies rely heavily on their lending activities to generate income. However, such activities pose a significant risk to lenders as borrowers may default on their loans, resulting in substantial financial losses. To minimize the risk of default, lenders need to carefully select qualified borrowers, determine appropriate interest rates, and decide on suitable loan amounts. This project aims to aid struggling lenders by developing a model that can assist them in making informed decisions.
 
 ## Important Concepts
-Credit card and home loans are two very good examples of credit given to a borrower by a lender. Money in a credit card is not ours, We need to pay it back. If we fail to pay it, we need to repay with interest. Home loans are another type of credit given. For this, we have a collateral i.e, this could be used to recover money if the customers fails to pay back. Asset financing is another good example of credit. Organizations don't buy the assets at one go instead they finance it and pay it over the time. 
+Credit card and home loans are examples of lending services where a borrower receives funds from a lender. When we use a credit card, the money we spend is not our own, and we are required to pay it back to the lender, along with interest if we are unable to repay the debt in full. Home loans are another form of lending, where a borrower puts up collateral, such as their home, to guarantee the loan. Another example of credit is asset financing, where organizations can finance assets and pay for them over time rather than purchasing them outright.
 
 ### Column Description
 Table | Columns | Description
